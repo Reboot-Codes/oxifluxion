@@ -1,0 +1,7 @@
+[workspace]
+resolution = "1"
+
+members = [
+  "fluxion",
+  "oximath"
+]
